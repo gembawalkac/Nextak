@@ -1,0 +1,238 @@
+{
+  "site_version": 25,
+  "packaged_date": "2026-11-10",
+  "source_commit": "7c0162dca4d2fd60476b3a34f2e302a9e6308d73",
+  "includes_browser_local_plan": false,
+  "files": [
+    {
+      "path": ".openai/hosting.json",
+      "size_bytes": 88,
+      "sha256": "4ca8a6f2755bf566c78304f3613fb63b103d229af4194f46b312c76e331f72a1"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 16525,
+      "sha256": "0bed8a38507534dba66dbc075545921694ab75925f2c542e5898ad34fc61b2dd"
+    },
+    {
+      "path": "START_HERE.md",
+      "size_bytes": 4137,
+      "sha256": "622648aeedff97dc8ff0248396c39ce27e38e1ffd2ecd8e33e89967d5755ac01"
+    },
+    {
+      "path": "VALIDATION.txt",
+      "size_bytes": 13962,
+      "sha256": "fc370a3235ae2cc707e6531b9e07bd4a09236c6d64110a8008a2154ab7177a7f"
+    },
+    {
+      "path": "dist/app.js",
+      "size_bytes": 31476,
+      "sha256": "91f27a1818bc024ebff9bcdfbaf8c61848c37f107d8eba52c3a4c8bb40e3c52c"
+    },
+    {
+      "path": "dist/batch-flow.js",
+      "size_bytes": 6625,
+      "sha256": "e21cb4a1c8d4f7e900fb919e043d0825eb72d009a3c507505681da6b1395caec"
+    },
+    {
+      "path": "dist/build-milestones.js",
+      "size_bytes": 6329,
+      "sha256": "57878abf16fbae5c7eb31c9e20191a2c3a20ce7bfdc2bbba8ee5cd89eeaa830a"
+    },
+    {
+      "path": "dist/calendar.js",
+      "size_bytes": 506,
+      "sha256": "61ae45e90d8dc48bfe2fc8de7f49626d5e9dbfdce021cfe251f8da7f045f57d7"
+    },
+    {
+      "path": "dist/critical-progress.js",
+      "size_bytes": 2015,
+      "sha256": "7d3bc4e51902094fe6188b78ac7740458d65acd101d71858aa4c464333fd4fa4"
+    },
+    {
+      "path": "dist/critical-view.js",
+      "size_bytes": 9950,
+      "sha256": "7f7269e872d2ee1886769eee9218bc4102718d45cdccaf469057d35d8103dbab"
+    },
+    {
+      "path": "dist/dashboard.js",
+      "size_bytes": 1854,
+      "sha256": "f22017e41bd8afd55f3cd088c02fbe3f44effa1b717adad00b6641fe188e2b1d"
+    },
+    {
+      "path": "dist/delivery-view.js",
+      "size_bytes": 12162,
+      "sha256": "8f1c346eeaa28aa6f3163f149f8178ed48095ecba58629d3745a2f16c8d73274"
+    },
+    {
+      "path": "dist/delivery-year-end.js",
+      "size_bytes": 1681,
+      "sha256": "f951e1945734b14190b8d47d99c5d7876f3607d2e06e6a191a7b1ab157570983"
+    },
+    {
+      "path": "dist/delivery.js",
+      "size_bytes": 7205,
+      "sha256": "d36c31ce45387d9c7978f147e8b7552fc7e0df18e4314ae30596d448e17d4e97"
+    },
+    {
+      "path": "dist/demand-revision.js",
+      "size_bytes": 1490,
+      "sha256": "3d6403fcd1bb0ccca125569dfb75107bc0b57b33d08f58c72b16184ae19a85e3"
+    },
+    {
+      "path": "dist/downstream.js",
+      "size_bytes": 3801,
+      "sha256": "e2ee22c17cd5340bdb5bc0fc0136f6529885d2428df8e4f026f2bfa2ff586b57"
+    },
+    {
+      "path": "dist/holiday-prep.js",
+      "size_bytes": 1588,
+      "sha256": "9e7b843dca7a7e5d707bc002c0d47eea03ffd23a84f97b45ab26f576c75045f9"
+    },
+    {
+      "path": "dist/index.html",
+      "size_bytes": 1718,
+      "sha256": "f1d354b773f5f5af4339ed5f388529178cc496dce01cdf19146a9a1e530b47a4"
+    },
+    {
+      "path": "dist/manual-plan-view.js",
+      "size_bytes": 4140,
+      "sha256": "eeacae36d1073f2ccf4160142f888a033876959bed11c9ec96711aa9aed899f2"
+    },
+    {
+      "path": "dist/manual-plan.js",
+      "size_bytes": 2835,
+      "sha256": "c3f95a2b474cd639ad6a51aac8ed8e132fc8905cdc97b7c73e0b8746674c67e6"
+    },
+    {
+      "path": "dist/milestone-view.js",
+      "size_bytes": 7186,
+      "sha256": "b32c71a089d9e9dd152083bcb93a57abd083a541638630376d057c7c1c3b9039"
+    },
+    {
+      "path": "dist/model.js",
+      "size_bytes": 8795,
+      "sha256": "019a7110b718288267f4acda39cc5967ec91945567ee71a6b3a2ea81818882de"
+    },
+    {
+      "path": "dist/oven.js",
+      "size_bytes": 892,
+      "sha256": "2bf3ccb570b092f0edfbec1838c2547905733a430a26b7512821bf4bd1b980c7"
+    },
+    {
+      "path": "dist/product-lead-times.js",
+      "size_bytes": 4240,
+      "sha256": "452630e97c0ee2701e13ba48119fe068f569b028fc91be4eb4ee6daead4cf1d4"
+    },
+    {
+      "path": "dist/seed.json",
+      "size_bytes": 7995,
+      "sha256": "0a17b43c3fecce604abec1f2b3204d797d59917a6afcdc388b254632aaa98db0"
+    },
+    {
+      "path": "dist/simple-app.js",
+      "size_bytes": 41330,
+      "sha256": "299a38bc3164feffa3987a653de8d100e9661a10784c83140ac5dcbeda3b33f6"
+    },
+    {
+      "path": "dist/simple-model.js",
+      "size_bytes": 8368,
+      "sha256": "2b94e24f97c2db6a2d7a88d30b805da2c3d2cb734febdf0a7b154868e6139e15"
+    },
+    {
+      "path": "dist/style.css",
+      "size_bytes": 38175,
+      "sha256": "ba0de2bf7db2b09092d75923fba90477dfac4c253c60684986170b6bf1031a50"
+    },
+    {
+      "path": "package.json",
+      "size_bytes": 111,
+      "sha256": "cb02ef5130709b39cad652a9c9c2565c5098dad2b6db730ab2babe39d97f0d57"
+    },
+    {
+      "path": "tests/batch-flow.test.mjs",
+      "size_bytes": 12568,
+      "sha256": "149957012338bfc71e03c019ba8206b306b1a2481a676554a647f8c646230917"
+    },
+    {
+      "path": "tests/batch-lead-times.test.mjs",
+      "size_bytes": 4472,
+      "sha256": "5c18656e51c203ecdf85af2a270ec7872672935295538f997154c35cfde1e70d"
+    },
+    {
+      "path": "tests/build-milestones.test.mjs",
+      "size_bytes": 9097,
+      "sha256": "562b68203dce77f1501e757221114da15c52a423c19f386f109dd7e3689a0daa"
+    },
+    {
+      "path": "tests/calendar.test.mjs",
+      "size_bytes": 664,
+      "sha256": "840ca922d9f11eecbe67de7d7f04ae522dba7b53bbd6332e3cb6c4ffd2528fd7"
+    },
+    {
+      "path": "tests/critical-progress.test.mjs",
+      "size_bytes": 4869,
+      "sha256": "897760e3275ad610fba26fafa05f740e85a3ae0f8911577ef973c6b78aec58e1"
+    },
+    {
+      "path": "tests/dashboard.test.mjs",
+      "size_bytes": 1436,
+      "sha256": "c140cfbf799bc7422b07cb9ce70f805730f744ea6275509a089e408895b5a4b9"
+    },
+    {
+      "path": "tests/delivery-year-end.test.mjs",
+      "size_bytes": 3569,
+      "sha256": "98bc5c11b2018d9f7cb1613f1bcff7848cd407ed7589108996fb5ec30f7adc14"
+    },
+    {
+      "path": "tests/delivery.test.mjs",
+      "size_bytes": 8980,
+      "sha256": "3b5d5d4fe198863baa7b4addc1e0ba65bd3135323fc4448438c505ed8b064b01"
+    },
+    {
+      "path": "tests/demand-revision.test.mjs",
+      "size_bytes": 4303,
+      "sha256": "9361b51593acc661df2c15268ad91000b423cdb95588c877026c0ba7fcb063c1"
+    },
+    {
+      "path": "tests/exact-cure.test.mjs",
+      "size_bytes": 4714,
+      "sha256": "491f4759a9a788285d78fbbdde9e08f330226e004048e5a08e09a308d014d7bc"
+    },
+    {
+      "path": "tests/holiday-prep.test.mjs",
+      "size_bytes": 2967,
+      "sha256": "53c99d05a6f7a5dc425bd61ec1d3dd81fe37e336e8ffc6c0171961bd7665887c"
+    },
+    {
+      "path": "tests/holidays.test.mjs",
+      "size_bytes": 2521,
+      "sha256": "87b6fd311189dfee76fa8103ed9ae4eedaab6daf4d8dac2f640fe8a6af0199b4"
+    },
+    {
+      "path": "tests/manual-plan.test.mjs",
+      "size_bytes": 3738,
+      "sha256": "89f86ce93cba94861fe879b279e556c49a2664a9d1ddcdd35d1cfc7536f14424"
+    },
+    {
+      "path": "tests/model.test.mjs",
+      "size_bytes": 5292,
+      "sha256": "9ca2caad95d7e01b877a8e4289c2c7e30e609d58756973e4624cd724b690c812"
+    },
+    {
+      "path": "tests/oven.test.mjs",
+      "size_bytes": 5596,
+      "sha256": "5b457f8c7da4296763ba450c15a7535cdbe67b32376be2e49037422641364ae8"
+    },
+    {
+      "path": "tests/product-lead-times.test.mjs",
+      "size_bytes": 5895,
+      "sha256": "e16b8bfd108a796f64fd070e6e47647d6e41a3e513c16972dc5f9a8f02895031"
+    },
+    {
+      "path": "tests/simple.test.mjs",
+      "size_bytes": 4530,
+      "sha256": "94e6ef4844958699b8c9a5de278c73463fbf30de1133a2e54519ca18d2eed178"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+import test from 'node:test';import assert from 'node:assert/strict';import{monthGrid,shiftedMonth}from'../dist/calendar.js';
+test('November 2026 renders Monday through Sunday including month-edge placeholders',()=>{const d=monthGrid('2026-11');assert.equal(d.length,42);assert.equal(d[0],'2026-10-26');assert.equal(d.at(-1),'2026-12-06');assert.equal(d.filter(x=>x.startsWith('2026-11')).length,30)});
+test('calendar supports a four-week month and a year transition',()=>{const d=monthGrid('2027-02');assert.equal(d.length,28);assert.equal(d[0],'2027-02-01');assert.equal(shiftedMonth('2026-12',1),'2027-01');assert.equal(shiftedMonth('2027-01',-1),'2026-12')});
